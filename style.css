@@ -1,0 +1,29 @@
+.circle{
+    background-color:#ecf0f1;
+    border-radius: 10px;
+    height: 350px;
+    width: 250px;
+    display: block;
+    margin: 8px auto;
+}
+.circle h2{
+    padding-top: 10px;
+    font-family: cursive;
+    font-weight: bold;
+    font-size: 25px;
+}
+.circle .display{
+    height: 50px;
+    width: 220px;
+    background-color: black;
+    display: block;
+    margin: 20px auto;
+    border-radius: 10px;
+    opacity: 70%;
+    
+}
+.display #result{
+    color: whitesmoke;
+}
+
+
